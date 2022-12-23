@@ -21,19 +21,21 @@
 .banner_text{
     padding-left:0 ;
     margin-bottom: 0;
-    padding-left: 10px;
+    font-weight: 800;
     font-size: 4rem;
 }
 .title {
     padding-left:0 ;
     margin-bottom: 0;
     letter-spacing: 0.1em;
-    line-height: 50.4px;
+    /* line-height: 50.4px; */
     font-weight: 800;
+    font-size: 28px;
     color: var(--colorNegro);
     /* margin-bottom: 1.5rem; */
 }
 .help{
+    margin-top: 18px;
     color: grey;
     font-size: 20px;
     /* padding-left: 10px; */

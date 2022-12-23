@@ -5,9 +5,9 @@ const Header = () => {
             <div className="Headerbar-container">
                 <div className="header_left">
                     <div>
-                        <h1 className="title">CGP</h1>
+                        <h1 className="title">E'GP</h1>
                         <h3 className="banner_text">
-                            Centeralized Grievance Portal
+                            E-Grievance Portal
                         </h3>
                     </div>
                     <div>
