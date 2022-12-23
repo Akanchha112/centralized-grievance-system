@@ -1,0 +1,14 @@
+.Navbar-container{
+    width: 100vw;
+    height: 60px;
+    position: fixed;
+    background-color: rgb(30, 30, 177);
+}
+.avatar{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    background-color: #808080;
+    margin-left: 92vw;
+    margin-top: 0.8vh;
+}

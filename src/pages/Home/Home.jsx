@@ -1,7 +1,8 @@
+import Nav from "../../components/Nav/Nav";
 const Home = () => {
     return (
         <>
-        <div>We are at home page</div>
+        <Nav/>
         </>
     )
 }
