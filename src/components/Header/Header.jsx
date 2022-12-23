@@ -3,25 +3,23 @@ const Header = () => {
     return (
         <>
             <div className="Headerbar-container">
-                <div>
+                <div className="header_left">
                     <div>
-                        <h1>CGP</h1>
-                    </div>
-                    <div>
-                        <h3>
+                        <h1 className="title">CGP</h1>
+                        <h3 className="banner_text">
                             Centeralized Grievance Portal
                         </h3>
                     </div>
                     <div>
-                        <h4>
+                        <h4 className="help">
 
                             We are here to help you!
                         </h4>
                     </div>
 
                 </div>
-                <div>
-                    <p> image here </p>
+                <div className="header_right">
+                    <img src="./images/headerim.jpg" />
                 </div>
             </div>
         </>

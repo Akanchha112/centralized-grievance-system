@@ -11,14 +11,14 @@ const Query=()=>{
     return(
         <>
         <div className="Query-container">
-            <div>
+            <div className='query-text'>
                 <h2>Raise your query</h2>
             </div>
             <div className="Querygenrator">
                 {
                     QueryData.map((e)=>{
                         return(
-                           <div onClick={()=>{Grievancenavigate(e)}}> <QueryCard key={e.id} query={e.query}/> </div>
+                           <div onClick={()=>{Grievancenavigate(e)}}> <QueryCard key={e.id} query={e.query} about={e.about}/> </div>
                         )
                         
                     })
