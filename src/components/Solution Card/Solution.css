@@ -1,0 +1,12 @@
+.Solution-container{
+    margin: 20px;
+    width: 50vw;
+    height: 80px;
+    border: 2px solid rgb(114, 114, 138);
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    font-weight: 500;
+    padding: 10px;
+}
