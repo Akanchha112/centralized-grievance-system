@@ -39,7 +39,7 @@
     height: 60px;
     display: flex;
     flex-direction: row;
-    justify-content: flex-end;
+    justify-content: center;
 }
 .query_card>img{
     align-self: flex-end;

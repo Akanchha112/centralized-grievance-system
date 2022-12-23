@@ -18,7 +18,7 @@ const Query=()=>{
                 {
                     QueryData.map((e)=>{
                         return(
-                           <div onClick={()=>{Grievancenavigate(e)}}> <QueryCard key={e.id} query={e.query} about={e.about}/> </div>
+                           <div onClick={()=>{Grievancenavigate(e)}}> <QueryCard key={e.id} query={e.query} about={e.about} source={e.image}/> </div>
                         )
                         
                     })

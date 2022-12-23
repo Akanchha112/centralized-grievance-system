@@ -2,7 +2,7 @@
     width: 100vw;
     height: 60px;
     /* position: fixed; */
-    background-color: rgb(30, 30, 177);
+    background-color: hsl(212, 86%, 64%);
     padding: 5px;
     margin-top: 0;
 }
@@ -10,7 +10,7 @@
     height: 45px;
     width: 45px;
     border-radius: 50%;
-    background-color: #808080;
+    background-color: #ffffff;
     margin-left: 92vw;
     padding-top: 10px;
 }
