@@ -1,0 +1,13 @@
+.Query-container{
+    width: 100vw;
+    /* background-color: antiquewhite; */
+    text-align: center;
+}
+.Querygenrator{
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}

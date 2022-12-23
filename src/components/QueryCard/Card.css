@@ -1,0 +1,8 @@
+.query_card{
+    width: 350px;
+    height: 200px;
+    background-color: #7fffd4;
+    margin: 30px 30px;
+    border-radius: 8px;
+    cursor: pointer;
+}
