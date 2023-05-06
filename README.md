@@ -46,6 +46,7 @@ signup/Login to the portal.</p>
 
 
 
+
 ![43a8d71f-327f-424d-99e9-5e78f781fcd8](https://user-images.githubusercontent.com/86427983/236606003-21710326-8bc6-4db8-be52-194084b5b084.jpg)
 
 
@@ -74,14 +75,30 @@ signup/Login to the portal.</p>
 ![ee7821ec-d61c-47bf-b2a6-f75da0b3f85d](https://user-images.githubusercontent.com/86427983/236606031-d8c6601d-86cb-4b54-9338-8a7aae8b2bae.jpg)
 
 
-<h5 align="center>Home 
+<h5 align="center"> Home Page </h5>
+  ![image](https://user-images.githubusercontent.com/86427983/236606354-63902aba-776f-42e3-a650-7869b962a1c2.png)
+
+  
+  <h5 align="center">Click on your Query and</h5>
+<h5 align="center">Write up your Issues..</h5>
+
+![image](https://user-images.githubusercontent.com/86427983/236606383-f204d5d5-7ee9-4b31-91f6-8a40f76aca27.png)
 
 
+  <h4 align="center">Future Scope..</h4>
+<p>The futuristic scope of our project is to add up a 24*7 Chat feature wherein a
+  Consultant would deal with the problems of the students by interacting live.</p>
+<p>We can extend this grievance portal for queries that a faculty could have towards the management.</p>
+<p>We can also create a grievance or helpline portal for Female students and teachers dealing with the problems of their domain
+  separately</p>
+  
 
-
-
-
-
+  <h4 align="center">Conclusion</h4>
+<p align = "center">By the end ofthis project we tried to bring out
+  efficient solution to our problem statement.</p>
+<p align="center">With this effort we hope thatthe grievances ofthe students would
+  notremain unheard and unresolved!</p>
+  
 
 
 
