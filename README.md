@@ -26,20 +26,20 @@ unresolved, and they end up losing faith in the institute.</p>
 centralized portalto getthose problems tracked and
 resolved effectively!</p>
 
-<h4>Tagline</h4>
+<h3 align ="Center">Tagline</h3>
 
-<p>One stop solution for all Student Grievances.</p><br>
+<p align ="Center">One stop solution for all Student Grievances.</p><br>
 
 
-<h4>Challenges we ran into</h4>
+<h3 align ="Center">Challenges we ran into</h3>
 
-<p>Creating a login page credentials for verified students.</p><br>
+<p align ="Center">Creating a login page credentials for verified students.</p><br>
 
-<h4 align ="Center">Technologies we used</h4>
+<h3 align ="Center">Technologies we used</h3>
 <p align="center">Web3, BlockChain (Ethereum), Html, CSS, JavaScript, React.js, Node.js, Git, Github</p>
 
-<h4 align = "Center">Flow of Our Website : </h4>
-<h5 align="center">Student's Login/Signup</h5>
+<h3 align = "Center">Flow of Our Website : </h3>
+<h4 align="center">Student's Login/Signup</h4>
 <p align="center">
 A registered/valid student with Valid studentID could come up and
 signup/Login to the portal.</p>
@@ -75,17 +75,22 @@ signup/Login to the portal.</p>
 ![ee7821ec-d61c-47bf-b2a6-f75da0b3f85d](https://user-images.githubusercontent.com/86427983/236606031-d8c6601d-86cb-4b54-9338-8a7aae8b2bae.jpg)
 
 
-<h5 align="center"> Home Page </h5>
-  ![image](https://user-images.githubusercontent.com/86427983/236606354-63902aba-776f-42e3-a650-7869b962a1c2.png)
+<h4 align="center"> Home Page </h4>
+
+
+  ![image](https://user-images.githubusercontent.com/86427983/236607593-25972b68-4a6b-4f48-bd90-0d438e7c1fc3.png)
 
   
-  <h5 align="center">Click on your Query and</h5>
-<h5 align="center">Write up your Issues..</h5>
+  
+  <h4 align="center">Click on your Query and</h4>
+<h4 align="center">Write up your Issues..</h4>
 
-![image](https://user-images.githubusercontent.com/86427983/236606383-f204d5d5-7ee9-4b31-91f6-8a40f76aca27.png)
+  
+  ![image](https://user-images.githubusercontent.com/86427983/236607637-1ef9d869-ea8f-47b7-bb72-fe301880bc28.png)
 
 
-  <h4 align="center">Future Scope..</h4>
+
+  <h3 align="center">Future Scope..</h3>
 <p>The futuristic scope of our project is to add up a 24*7 Chat feature wherein a
   Consultant would deal with the problems of the students by interacting live.</p>
 <p>We can extend this grievance portal for queries that a faculty could have towards the management.</p>
@@ -93,19 +98,17 @@ signup/Login to the portal.</p>
   separately</p>
   
 
-  <h4 align="center">Conclusion</h4>
+  <h3 align="center">Conclusion</h3>
 <p align = "center">By the end ofthis project we tried to bring out
   efficient solution to our problem statement.</p>
 <p align="center">With this effort we hope thatthe grievances ofthe students would
   notremain unheard and unresolved!</p>
-  
-
-
-
-
-
-
-
+<br>
+  <br>
+  <br>
+<br>
+  <br><br>
+<br>
 
 
 
